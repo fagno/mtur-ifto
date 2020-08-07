@@ -54,8 +54,9 @@ video::v_vQvUifMm0[youtube,width=640,height=480]
 
 IMPORTANT: Alteração da senha de acesso deve ser feita pelo sistema https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]
 
-Caso tenha esquecido sua senha, acesse o sistema acadêmico https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA] e depois o link "Esqueceu a senha?" conforme indicado na imagem a seguir.
+Caso tenha esquecido sua senha, acesse o sistema acadêmico https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA] e depois o link "Esqueceu a senha?" conforme indicado na figura 1.
 
+.SIGA
 image::siga-login.png[]
 
 === Contato do Suporte Moodle
@@ -75,14 +76,12 @@ Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 
 *Passo 2: Inserir URL da página do Moodle.*
 
-IMPORTANT: Moodle Campus Palmas: inserir a URL https://moodlepalmas.ifto.edu.br/moodle no campo Site address conforme figura 1.
-
-IMPORTANT: Moodle Reitoria: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 1.
+IMPORTANT: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 2.
 
 .Inserir URL da página do Moodle
-image::moodle-mobile-img1.png[width=400,height=300]
+image::moodle-mobile-img1.png[width=300,height=200]
 
-*Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 2.*
+*Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 3.*
 
 .Inserir usuário e senha
-image::moodle-mobile-img2.png[width=400,height=300]
+image::moodle-mobile-img2.png[width=300,height=200]
