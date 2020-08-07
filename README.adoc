@@ -25,16 +25,20 @@
 :lang: pt-BR
 //3+| mesclar linha tabela
 
-link:https://fagno.github.io/pwebii-ifto/[HOME]
+link:https://fagno.github.io/mtur-ifto/[HOME]
 
 = Projeto MTUR
 
 == Sobre o Projeto
 
-video::zKO4t_P2ePs[youtube,width=640,height=480]
+image::imagem-novidades.jpg[]
+
+=== Visite o Tocantins
+
+//video::video_file.mp4[options=autoplay]
+video::../video/slide-fotos-turismo.mp4[width=640, start=60, end=140]
 
 == Instruções aos estudantes
 
 informações aqui!
 
-image::one-to-one-bi.png[]
