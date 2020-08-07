@@ -36,7 +36,7 @@ image::imagem-novidades.jpg[]
 === Visite o Tocantins
 
 //video::video_file.mp4[start=60, end=140, options=autoplay]
-video::slide-fotos-turismo.mp4[width=640]
+video::rCJlzSJdWZU[youtube,width=640,height=480]
 
 == Instruções aos estudantes
 
