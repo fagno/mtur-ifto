@@ -40,20 +40,49 @@ video::rCJlzSJdWZU[youtube,width=640,height=480]
 
 == Instruções aos estudantes
 
-=== Primeiro acesso a Ambiente Virtual Moodle
+=== Primeiro acesso ao Ambiente Virtual Moodle
 
 IMPORTANT: Endereço web do ambiente virtual https://moodle.ifto.edu.br
 
 Para ter acesso a plataforma Moodle, o estudante deve utilizar os mesmos dados de *usuário* e *senha* cadastrados no sistema acadêmico SIGA.
 
+O vídeo a seguir apresenta o Ambiente Virtual Moodle e como efetuar o primeiro acesso.
+
+video::v_vQvUifMm0[youtube,width=640,height=480]
+
 === Esqueceu seu usuário ou senha
 
-IMPORTANT: Alteração da senha de acesso deve ser feita pelo sistema SIGA
+IMPORTANT: Alteração da senha de acesso deve ser feita pelo sistema https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]
 
-Caso tenha esquecido sua senha, acesse através deste link: https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[Esqueceu sua senha?].
+Caso tenha esquecido sua senha, acesse o sistema acadêmico https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA] e depois o link "Esqueceu a senha?" conforme indicado na imagem a seguir.
+
+image::siga-login.png[]
 
 === Contato do Suporte Moodle
 
 Em caso de dúvidas ou problemas com o Ambiente Virtual Moodle envie um e-mail para ficturismo@ifto.edu.br.
 
 IMPORTANT: Ao enviar o e-mail de contato, informe NOME, CPF e CURSO.   
+
+=== Moodle Mobile
+
+Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
+
+*Passo 1: Efetuar download do aplicativo na Google Play ou App Store.*
+
+- Google Play: link:https://play.google.com/store/apps/details?id=com.moodle.moodlemobile/[Download]
+- App Store: link:https://apps.apple.com/br/app/moodle/id633359593/[Download]
+
+*Passo 2: Inserir URL da página do Moodle.*
+
+IMPORTANT: Moodle Campus Palmas: inserir a URL https://moodlepalmas.ifto.edu.br/moodle no campo Site address conforme figura 1.
+
+IMPORTANT: Moodle Reitoria: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 1.
+
+.Inserir URL da página do Moodle
+image::moodle-mobile-img1.png[width=400,height=300]
+
+*Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 2.*
+
+.Inserir usuário e senha
+image::moodle-mobile-img2.png[width=400,height=300]
