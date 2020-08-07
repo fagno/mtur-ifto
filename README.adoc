@@ -31,12 +31,12 @@ link:https://fagno.github.io/mtur-ifto/[HOME]
 
 == Sobre o Projeto
 
-image::imagem-novidades.jpg[]
+image::imagem-novidades.png[]
 
 === Visite o Tocantins
 
 //video::video_file.mp4[options=autoplay]
-video::../video/slide-fotos-turismo.mp4[width=640, start=60, end=140]
+video::/home/fagno/Documentos/mtur-ifto/videos/slide-fotos-turismo.mp4[width=640, start=60, end=140]
 
 == Instruções aos estudantes
 
