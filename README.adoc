@@ -55,7 +55,7 @@ IMPORTANT: Alteração da senha de acesso deve ser feita pelo sistema https://si
 Caso tenha esquecido sua senha, acesse o sistema acadêmico https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA] e depois o link "Esqueceu a senha?" conforme indicado na figura 1.
 
 .SIGA
-image::siga-login.png[width=300,height=200]
+image::siga-login.png[width=640,height=480]
 
 === Contato do Suporte Moodle
 
@@ -77,9 +77,9 @@ Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 IMPORTANT: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 2.
 
 .Inserir URL da página do Moodle
-image::moodle-mobile-img1.png[width=200,height=100]
+image::moodle-mobile-img1.png[width=300,height=200]
 
 *Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 3.*
 
 .Inserir usuário e senha
-image::moodle-mobile-img2.png[width=200,height=100]
+image::moodle-mobile-img2.png[width=300,height=200]
