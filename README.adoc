@@ -29,14 +29,12 @@ link:https://fagno.github.io/mtur-ifto/[HOME]
 
 = Projeto MTUR
 
-== Sobre o Projeto
-
 image::imagem-novidades.jpg[]
 
-=== Visite o Tocantins
+// === Visite o Tocantins
 
-//video::video_file.mp4[start=60, end=140, options=autoplay]
-video::rCJlzSJdWZU[youtube,width=640,height=480]
+// //video::video_file.mp4[start=60, end=140, options=autoplay]
+// video::rCJlzSJdWZU[youtube,width=640,height=480]
 
 == Instruções aos estudantes
 
@@ -57,7 +55,7 @@ IMPORTANT: Alteração da senha de acesso deve ser feita pelo sistema https://si
 Caso tenha esquecido sua senha, acesse o sistema acadêmico https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA] e depois o link "Esqueceu a senha?" conforme indicado na figura 1.
 
 .SIGA
-image::siga-login.png[]
+image::siga-login.png[width=300,height=200]
 
 === Contato do Suporte Moodle
 
@@ -79,9 +77,9 @@ Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 IMPORTANT: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 2.
 
 .Inserir URL da página do Moodle
-image::moodle-mobile-img1.png[width=300,height=200]
+image::moodle-mobile-img1.png[width=200,height=100]
 
 *Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 3.*
 
 .Inserir usuário e senha
-image::moodle-mobile-img2.png[width=300,height=200]
+image::moodle-mobile-img2.png[width=200,height=100]
