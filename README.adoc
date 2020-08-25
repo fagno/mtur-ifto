@@ -46,7 +46,7 @@ Para ter acesso a plataforma Moodle, o estudante deve utilizar os mesmos dados d
 
 O vídeo a seguir apresenta o Ambiente Virtual Moodle e como efetuar o primeiro acesso.
 
-video::v_vQvUifMm0[youtube,width=640,height=480]
+video::https://www.youtube.com/watch?time_continue=385&v=QadNIXJnp-Y&feature=emb_logo[youtube,width=640,height=480]
 
 === Esqueceu seu usuário ou senha
 
