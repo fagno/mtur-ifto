@@ -1,15 +1,14 @@
+:icons: font
+:allow-uri-read:
 //caminho padrão para imagens
-:imagesdir: ./images
+:imagesdir: images
+:numbered:
 :figure-caption: Figura
 :doctype: book
 
 //gera apresentacao
 //pode se baixar os arquivos e add no diretório
 :revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
-
-//GERAR ARQUIVOS
-//make slides
-//make ebook
 
 //Estilo do Sumário
 :toc2: 
@@ -25,6 +24,17 @@
 :lang: pt-BR
 //3+| mesclar linha tabela
 
+ifdef::env-github[:outfilesuffix: .adoc]
+
+ifdef::env-github,env-browser[]
+// Exibe ícones para os blocos como NOTE e IMPORTANT no GitHub
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
 link:https://fagno.github.io/mtur-ifto/[HOME]
 
 = Projeto MTUR
@@ -36,7 +46,17 @@ image::imagem-novidades.jpg[]
 // //video::video_file.mp4[start=60, end=140, options=autoplay]
 // video::rCJlzSJdWZU[youtube,width=640,height=480]
 
-== Instruções aos estudantes
+=== ACESSO A SISTEMAS
+
+=== Sistema Integrado de Gestão Acadêmica - SIGA
+
+As principais atividades da vida acadêmica dos estudantes são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
+
+IMPORTANT: Informações como matrícula, notas e histórico escolar podem ser acessadas por meio de login e senha.
+
+Primeiro Acesso/Esqueceu sua Senha do https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]?
+
+video::LT5wbZNvnKc[youtube,width=640,height=480]
 
 === Primeiro acesso ao Ambiente Virtual Moodle
 
