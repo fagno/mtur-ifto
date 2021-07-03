@@ -48,9 +48,9 @@ image::imagem-novidades.jpg[]
 
 == ACESSO A SISTEMAS
 
-NOTE: Em caso de dúvidas ou problemas com algum dos sistemas, envie um e-mail para ficturismo@ifto.edu.br.
+NOTE: Em caso de dúvidas ou problemas com algum dos sistemas, e-mail do suporte: ficturismo@ifto.edu.br.
 
-IMPORTANT: Ao enviar o e-mail de contato, informe NOME, CPF e CURSO.   
+IMPORTANT: Informações necessárias ao enviar e-mail para o suporte: NOME COMPLETO, CPF e CURSO.   
 
 === Sistema Integrado de Gestão Acadêmica - SIGA
 
@@ -73,7 +73,7 @@ image::siga-login.png[width=640,height=480]
 
 IMPORTANT: Endereço web do ambiente virtual https://moodle.ifto.edu.br
 
-Para ter acesso a plataforma Moodle, o estudante deve utilizar os mesmos dados de *usuário* e *senha* cadastrados no sistema acadêmico SIGA.
+NOTE: Para ter acesso a plataforma Moodle, o estudante deve utilizar os mesmos dados de *usuário* e *senha* cadastrados no sistema acadêmico SIGA.
 
 O vídeo a seguir apresenta o Ambiente Virtual Moodle e como efetuar o primeiro acesso.
 
