@@ -46,27 +46,19 @@ image::imagem-novidades.jpg[]
 // //video::video_file.mp4[start=60, end=140, options=autoplay]
 // video::rCJlzSJdWZU[youtube,width=640,height=480]
 
-=== ACESSO A SISTEMAS
+== ACESSO A SISTEMAS
+
+NOTE: Em caso de dúvidas ou problemas com algum dos sistemas, envie um e-mail para ficturismo@ifto.edu.br.
+
+IMPORTANT: Ao enviar o e-mail de contato, informe NOME, CPF e CURSO.   
 
 === Sistema Integrado de Gestão Acadêmica - SIGA
 
-As principais atividades da vida acadêmica dos estudantes são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
+As principais atividades da vida acadêmica dos estudantes são registradas no Sistema de Informação e Gestão Acadêmica - SIGA. https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[Primeiro Acesso/Esqueceu sua Senha?]  
 
 IMPORTANT: Informações como matrícula, notas e histórico escolar podem ser acessadas por meio de login e senha.
 
-Primeiro Acesso/Esqueceu sua Senha do https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]?
-
 video::LT5wbZNvnKc[youtube,width=640,height=480]
-
-=== Primeiro acesso ao Ambiente Virtual Moodle
-
-IMPORTANT: Endereço web do ambiente virtual https://moodle.ifto.edu.br
-
-Para ter acesso a plataforma Moodle, o estudante deve utilizar os mesmos dados de *usuário* e *senha* cadastrados no sistema acadêmico SIGA.
-
-O vídeo a seguir apresenta o Ambiente Virtual Moodle e como efetuar o primeiro acesso.
-
-video::QadNIXJnp-Y[youtube,width=640,height=480]
 
 === Esqueceu seu usuário ou senha
 
@@ -77,11 +69,15 @@ Caso tenha esquecido sua senha, acesse o sistema acadêmico https://sigaaluno.if
 .SIGA
 image::siga-login.png[width=640,height=480]
 
-=== Contato do Suporte Moodle
+=== Primeiro acesso ao Ambiente Virtual Moodle
 
-Em caso de dúvidas ou problemas com o Ambiente Virtual Moodle envie um e-mail para ficturismo@ifto.edu.br.
+IMPORTANT: Endereço web do ambiente virtual https://moodle.ifto.edu.br
 
-IMPORTANT: Ao enviar o e-mail de contato, informe NOME, CPF e CURSO.   
+Para ter acesso a plataforma Moodle, o estudante deve utilizar os mesmos dados de *usuário* e *senha* cadastrados no sistema acadêmico SIGA.
+
+O vídeo a seguir apresenta o Ambiente Virtual Moodle e como efetuar o primeiro acesso.
+
+video::QadNIXJnp-Y[youtube,width=640,height=480]
 
 === Moodle Mobile
 
