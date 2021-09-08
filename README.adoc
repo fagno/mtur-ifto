@@ -39,7 +39,7 @@ link:https://fagno.github.io/mtur-ifto/[HOME]
 
 = Projeto MTUR
 
-image::imagem-novidades.jpg[]
+image::banner2021.jpg[]
 
 // === Visite o Tocantins
 
